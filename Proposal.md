@@ -1,6 +1,6 @@
 ﻿Integrantes
 
-47826 - Bruno, Raúl 47501 - Vera, Julián 48840 - Zapata, Nicolás
+47826 - Bruno, Raúl 47501 - Vera, Julián 
 
 Repositorios
 
@@ -15,7 +15,7 @@ Gestión de una plataforma para realizar la carrera de analista en sistemas de i
 
 Modelo
 
-<https://app.diagrams.net/?mode=google&gfw=1#G1IeUwdkHXvxFTYvyZCb9879YtnIVaqmIE>
+<https://drive.google.com/file/d/1gh2yqGE0EHzpJHFY-E-esw1KPFiLzdLu/view?usp=sharing>
 
 Alcance Funcional
 
@@ -23,6 +23,6 @@ Alcance Funcional
 
 |Req|Detalle|
 | - | - |
-|CRUD|<p>1. CRUD Alumno</p><p>2. CRUD Materia</p><p>3. CRUD Examen</p><p>4. CRUD Profesor</p><p>5. CRUD Consulta</p>|
-|CUU/Epic|<p>1. Crear usuario alumno.</p><p>2. Subir contenido profesor.</p><p>3. Inscripción a examen.</p><p>4. Inscripción a materia.</p><p>5. Alumno solicita clase de consulta.</p><p>6. Alumno realiza examen.</p>|
+|CRUD|<p>1. CRUD Alumno</p><p>2. CRUD Materia</p><p>3. CRUD Inscripcion</p><p>4. CRUD Consulta</p>|
+|CUU/Epic|<p>1. Crear usuario alumno.</p><p>2. Modificar alumno.</p><p>3. Inscripción a materia.</p>
 
