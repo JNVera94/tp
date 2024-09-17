@@ -43,6 +43,14 @@ Cada inscripción guarda los datos del alumno, de la materia, y la fecha en que 
 Un usuario, sin necesidad de estar logueado, puede enviar una consulta.
 
 
+## Link Deploy
+
+https://skillhub-utn.netlify.app/
+
+
+## Link Video funcionamiento
+
+https://drive.google.com/file/d/1yucGeE1iIO03FK-u9FPfDMKKmL-jDjNj/view?usp=drive_link
 
 ## Link DER
 https://drive.google.com/file/d/1gh2yqGE0EHzpJHFY-E-esw1KPFiLzdLu/view?usp=sharing
