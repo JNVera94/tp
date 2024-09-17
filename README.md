@@ -52,6 +52,10 @@ https://skillhub-utn.netlify.app/
 
 https://drive.google.com/file/d/1yucGeE1iIO03FK-u9FPfDMKKmL-jDjNj/view?usp=drive_link
 
+## Link Documentación
+
+https://docs.google.com/document/d/1CkQZDj4z2Z70dxk6JgTxYTbpN7wQ6wqDCeYFDB0rM9g/edit?usp=drive_link
+
 ## Link DER
 https://drive.google.com/file/d/1gh2yqGE0EHzpJHFY-E-esw1KPFiLzdLu/view?usp=sharing
 
